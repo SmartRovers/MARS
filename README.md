@@ -1,2 +1,2 @@
-# mars
+# MARS
 Autonomous Navigation Bot
